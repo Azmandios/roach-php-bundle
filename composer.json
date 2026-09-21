@@ -16,10 +16,7 @@
         "symfony/phpunit-bridge": "^7.0",
         "symfony/var-dumper": "^7.0",
         "symfony/framework-bundle": "^7.0",
-        "symfony/maker-bundle": "^1.68",
-        "vimeo/psalm": "^4.21",
-        "psalm/plugin-symfony": "^3.1",
-        "psalm/plugin-phpunit": "^0.16.1"
+        "symfony/maker-bundle": "^1.68"
     },
     "license": "MIT",
     "autoload": {
